@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0260447e-5502-4200-9b9c-8531bc7f330b"
+      }
+    },
+    "owner": "mtc-dev",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/0260447e-5502-4200-9b9c-8531bc7f330b"
     }
   }
 }
